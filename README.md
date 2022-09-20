@@ -11,13 +11,6 @@ A DevOps Engineer ♾️, Tech Enthusiast 💻, Hodophile 🚀 and Night Owl🦉
 - 😄 Pronouns: Mr.Reddy
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manojreddykatta&theme=dark)](https://github.com/manojreddykatta/github-readme-stats)
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manojreddykatta&layout=compact&theme=dark)](https://github.com/manojreddykatta/github-readme-stats)
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### :zero: :one: Languages :zero: :one:
 
 ![Java](https://img.shields.io/badge/-Java-f89820?style=flat&logo=java&logoColor=white)
@@ -30,3 +23,11 @@ A DevOps Engineer ♾️, Tech Enthusiast 💻, Hodophile 🚀 and Night Owl🦉
 ![GCP](https://img.shields.io/badge/-GCP-3cba54?style=flat&logo=google-cloud&logoColor=white)
 ![Oracle](https://img.shields.io/badge/-Oracle-F80102?style=flat&logo=oracle&logoColor=white)
 ![IBM](https://img.shields.io/badge/-IBM-1F70C1?style=flat&logo=ibm&logoColor=white)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manojreddykatta&theme=dark)](https://github.com/manojreddykatta/github-readme-stats)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manojreddykatta&layout=compact&theme=dark)](https://github.com/manojreddykatta/github-readme-stats)
+
+
