@@ -11,9 +11,6 @@ A DevOps Engineer ♾️, Tech Enthusiast 💻, Hodophile 🚀 and Night Owl🦉
 - 😄 Pronouns: Mr.Reddy
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### :zero: :one: Languages :zero: :one:
-
-![GitHub followers](https://img.shields.io/github/followers/manojreddykatta?color=Red&style=social)
 
 ### :cloud: :cloud: Cloud :cloud: :cloud:
 ![AWS](https://img.shields.io/badge/-Aws-ff9900?style=flat&logo=amazon-aws&logoColor=white)
