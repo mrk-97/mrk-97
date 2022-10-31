@@ -24,6 +24,3 @@ A DevOps Engineer ♾️, Tech Enthusiast 💻, Hodophile 🚀 and Night Owl🦉
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manojreddykatta&layout=compact&theme=dark)](https://github.com/manojreddykatta/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manojreddykatta&theme=dark)](https://github.com/manojreddykatta/github-readme-stats)
-
