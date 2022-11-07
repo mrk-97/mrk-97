@@ -20,7 +20,7 @@ A DevOps Engineer ♾️, Tech Enthusiast 💻, Hodophile 🚀 and Night Owl🦉
 ![IBM](https://img.shields.io/badge/-IBM-1F70C1?style=flat&logo=ibm&logoColor=white)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manojreddykatta&theme=dark)](https://github.com/manojreddykatta/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manojreddykatta)](https://github.com/manojreddykatta/github-readme-stats)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manojreddykatta&layout=compact&theme=dark)](https://github.com/manojreddykatta/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manojreddykatta&layout=compact)](https://github.com/manojreddykatta/github-readme-stats)
