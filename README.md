@@ -1,5 +1,5 @@
 ### Hi , I'm Manoj Reddy 👋
-A DevOps Engineer ♾️, Tech Enthusiast 💻, Hodophile 🚀 and Night Owl🦉
+A DevOps Engineer ♾️, Tech Enthusiast 💻, Hodophile 🚀
 
 - 🔭 I’m currently working on my coding & cloud skills, automating stuff, building websites and applications
 - 🌱 I’m currently learning JavaScript, ReactJS, NodeJS, Python and testing.
