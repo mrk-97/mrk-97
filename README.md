@@ -18,9 +18,6 @@ A DevOps Engineer ♾️, Tech Enthusiast 💻, Hodophile 🚀
 ![Azure](https://img.shields.io/badge/-Azure-008AD7?style=flat&logo=microsoft-azure&logoColor=white)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrk-97)](https://github.com/mrk-97/github-readme-stats)
-
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrk-97&layout=compact)](https://github.com/mrk-97/github-readme-stats)
 
