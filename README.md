@@ -9,4 +9,5 @@ A DevOps Engineer ♾️, Tech Enthusiast 💻, Hodophile 🚀
 - ✍️ Read my blog posts on <a href="https://dev.to/manojreddy">Dev.to</a>
 - 📫 How to reach me: You can contact me on Twitter, LinkedIn, Discord or on Snapchat
 - 😄 Pronouns: Mr.Reddy
-
+----
+[![mrk's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrk-97)](https://github.com/mrk-97/github-readme-stats)
