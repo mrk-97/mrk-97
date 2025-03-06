@@ -12,5 +12,5 @@ A DevOps Engineer ♾️, Tech Enthusiast 💻, Hodophile 🚀
 ----
 [![mrk's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrk-97)](https://github.com/mrk-97/github-readme-stats)
 ----
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mrk-97&exclude_repo=github-readme-stats,e2e-cicd,torch,node-user-service,tech-interview-handbook,studentManagement)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mrk-97&exclude_repo=github-readme-stats,e2e-cicd,torch,node-user-service,tech-interview-handbook,studentManagement,springboot-mvn-mongo-todo,Algorithms-and-Data-Structures-in-Java,StackSimplify-aws-eks-kubernetes-masterclass)](https://github.com/anuraghazra/github-readme-stats)
 
