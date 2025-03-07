@@ -1,5 +1,3 @@
----
-
 ### 👋 Hi, I’m Manoj Reddy
 **DevOps Engineer | Tech Enthusiast | Hodophile**
 
